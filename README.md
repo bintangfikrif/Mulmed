@@ -1,7 +1,9 @@
 # Repositori Tugas
 # Kelas Sistem Tekonologi & Multimedia (IF25-40305)
 
-![Logo Multimedia](logo/IF4021_logo.png)
+<p align="center">
+    <img src="logo/IF4021_logo.png" width="300">
+</p>
 
 Repositori ini berisi kumpulan *file* dan *notebook* Jupyter yang berkaitan dengan mata kuliah Sistem Teknologi Multimedia. Proyek ini mencakup latihan dan tugas-tugas terkait.
 
