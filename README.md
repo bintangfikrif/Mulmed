@@ -1,5 +1,5 @@
 # Repositori Tugas
-# Kelas Sistem Tekonologi & Multimedia (IF25-40305)
+# Kelas Sistem & Tekonologi  Multimedia (IF25-40305)
 
 <p align="center">
     <img src="logo/IF4021_logo.png" width="300">
