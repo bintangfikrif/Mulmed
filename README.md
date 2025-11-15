@@ -37,6 +37,12 @@ Berikut adalah struktur dari repositori ini:
         * **`5_remixed_song.wav`**: Lagu yang telah di-*remix*.
         * **`Multimedia_1.wav`, `Multimedia_2.1.wav`**: *File* audio sumber.
 
+* **`Worksheet-4-Image`**: Direktori berisi tugas image processing.
+    * **`122140008_Worksheet4.pdf`**: Laporan pemrosesan image.
+    * **`worksheet4.ipynb`**: *Notebook* jupyter utama untuk pemrosesan image.
+    * **`media/`**: Folder yang berisikan file-file yang digunakan pada tugas pemrosesan image.
+    * **`results_ws4/`**: Folder yang berisikan file-file output dari tugas pemrosesan image.
+
 ---
 
 ## Cara Menjalankan Kode
